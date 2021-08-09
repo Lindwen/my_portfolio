@@ -80,6 +80,10 @@ body {
     margin: 10px;
 }
 
+.project p {
+    margin: 10px;
+}
+
 .project:nth-child(odd) {
     justify-self: start;
 }
